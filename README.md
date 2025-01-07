@@ -64,4 +64,3 @@ O projeto oferece uma excelente base para aprender conceitos fundamentais de pro
 - **Boas práticas na organização de código**.  
 - **Manipulação de objetos em Java**.
 
-Caso queira expandir as funcionalidades ou obter mais detalhes sobre o projeto, é só avisar! 😊
